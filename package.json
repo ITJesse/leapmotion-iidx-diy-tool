@@ -1,0 +1,12 @@
+{
+  "name": "leapmotion-iidx-diy-tool",
+  "version": "0.0.0",
+  "private": true,
+  "scripts": {
+    "start": "node ./app.js"
+  },
+  "dependencies": {
+    "player": "*",
+	"keypress": "*"
+  }
+}
